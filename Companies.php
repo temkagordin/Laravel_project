@@ -31,7 +31,6 @@ class Companies extends Model
         'deals',
         'details',
         'logo',
-
         'site',
         'site_id',
         'map_address',
